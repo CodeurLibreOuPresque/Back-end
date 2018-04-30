@@ -1,1 +1,1 @@
-Dossier contenant des réalisation en language PHP.
+Dossier contenant des réalisations en language PHP.
