@@ -1,3 +1,3 @@
-// Selectionner toute les tables de la base de donnée "Customers"
+// Selectionner toute les colonnes de la table "Customers"
 
 SELECT * FROM Customers;
